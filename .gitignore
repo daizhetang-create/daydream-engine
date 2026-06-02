@@ -1,0 +1,7 @@
+# 本地工具 / tooling
+.claude/
+*.bak
+
+# 早期草稿(本地保留,不公开发布)/ older drafts, kept local
+descent_test.html
+唐代喆个人介绍网站 index.html
