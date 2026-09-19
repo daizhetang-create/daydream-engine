@@ -4,6 +4,8 @@
 
 这是一个把个人思考做成可交互叙事的单页网站。它用“三幕剧”讲清楚一个现实派理想主义者如何拆解约束、成本和概率，再把白日梦推进到可以落地的下一步。
 
+![Daydream Engine ready screen](docs/daydream-ready.png)
+
 ## 项目概览
 
 - 作者：唐代喆 / TANG DAIZHE
